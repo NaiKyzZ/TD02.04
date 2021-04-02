@@ -1,0 +1,12 @@
+Exo 1:
+1) Modifie la visibilité, - private uniquement dans la même classe
+protected - que la classe et celles qui héritent
+public - toutes les classes peuvent y accéder
+
+2) implements : héritage d'interface
+extends : héritage de classe
+
+Exo2:
+
+
+
